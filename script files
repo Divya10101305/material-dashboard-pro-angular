@@ -1,0 +1,3 @@
+Hello, last month we purchased this product, when we are trying to integrate with our angular 4 projects..
+.we are facing so many issues.. navmenu collapsing is not working , but after we are commenting script bootstrap.min.js collapsing is 
+working.. because of commenting wizard is not working.. Please let me know how to handle it
